@@ -37,7 +37,7 @@ that will require you to target a specific server by hostname.
 
 Player-owned Servers
 ^^^^^^^^^^^^^^^^^^^^
-The player starts with a single server: his/her home computer.
+The player starts with a single server: their home computer.
 This server will have the hostname "home." The player's home
 computer is special for a variety of reasons:
 
